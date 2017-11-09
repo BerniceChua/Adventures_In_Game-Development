@@ -8,7 +8,7 @@ Bernice's lesson plans and tutorials for making videogames -- "traditional" vide
 ### Sections
 1) [Getting Started And Introduction To Unity](./01_Getting_Started_And_Introduction_To_Unity.md)
 2) [Photogrammetry - A Way To Create Virtual_Reality Worlds Part 1](./02_Photogrammetry_-_A_Way_To_Create Virtual_Reality_Worlds_1.md)
-3) [Photogrammetry - A Way To Create Virtual_Reality Worlds Part 2](./02_Photogrammetry_-_A_Way_To_Create Virtual_Reality_Worlds_2.md)
+3) [Photogrammetry - A Way To Create Virtual_Reality Worlds Part 2](./03_Photogrammetry_-_A_Way_To_Create Virtual_Reality_Worlds_2.md)
 
 
 
